@@ -1,0 +1,9 @@
+Ejemplo de CPdescarga, base de datos completa en:
+https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx
+
+06002||09|015|0879|Urbano|06
+06100|HipÛdromo|Colonia|CuauhtÈmoc|Ciudad de MÈxico|Ciudad de MÈxico|06401|09|06401||09|015|0882|Urbano|06
+06140|Condesa|Colonia|CuauhtÈmoc|Ciudad de MÈxico|Ciudad de MÈxico|06401|09|06401||09|015|0884|Urbano|06
+06170|HipÛdromo Condesa|Colonia|CuauhtÈmoc|Ciudad de MÈxico|Ciudad de MÈxico|06401|09|06401||09|015|0886|Urbano|06
+06200|Morelos|Colonia|CuauhtÈmoc|Ciudad de MÈxico|Ciudad de MÈxico|06401|09|06401||09|015|0891|Urbano|06
+06220|Peralvillo|Colonia|CuauhtÈmoc|Ciudad de MÈxico|Ciudad de MÈxico|06401|09|06401||09|015|0894|Urbano|06
