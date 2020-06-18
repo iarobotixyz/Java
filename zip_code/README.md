@@ -21,3 +21,7 @@ java zip_code 06140
 teniendo como resultado una cadena json con la informacion del codigo postal.
 
 ```json{"zip_code": "06140","locality":"Ciudad de M�xico","federal_entity":"Ciudad de M�xico","settlements": [{"name": "Condesa","zone_type": "Urbano","settlement_type": "Colonia",}], "municipality": "Cuauht�moc"}```
+
+
+Nota: Si el directorio ya existe, borra los archivos anteriores antes de iniciar la clonación.
+rm -R Java
