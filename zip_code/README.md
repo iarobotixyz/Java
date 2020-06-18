@@ -2,7 +2,7 @@
 
 git clone     https://github.com/iarobotixyz/Java
 
--Entrar en el repositorio con 
+-Entrar en el directorio con 
 
 cd zip_code
 
