@@ -16,7 +16,7 @@ javac zip_code.java
 Va a generar un archivo llamado zip_code.class 
 Ejecutar el archivo generado con el comando
 
-java zip_code
+java zip_code 06140
 
 teniendo como resultado una cadena json con la informacion del codigo postal.
 
