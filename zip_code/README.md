@@ -1,4 +1,4 @@
--En terminal descargar el repositorio con el comando
+-En terminal de Cloud Shell descargar el repositorio con el comando
 
 git clone     https://github.com/iarobotixyz/Java
 
