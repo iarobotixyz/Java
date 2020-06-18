@@ -6,6 +6,9 @@ git clone     https://github.com/iarobotixyz/Java
 
 cd zip_code
 
+Descargar la base de datos de codigos postales, el archivo CPdescarga.txt contiene la bd completa. 
+https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx
+
 -compilar el archivo con 
 
 javac zip_code.java
